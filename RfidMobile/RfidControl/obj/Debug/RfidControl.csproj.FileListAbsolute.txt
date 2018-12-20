@@ -1,0 +1,5 @@
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidControl\bin\Debug\RfidControl.dll
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidControl\bin\Debug\RfidControl.pdb
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidControl\obj\Debug\ResolveAssemblyReference.cache
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidControl\obj\Debug\RfidControl.dll
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidControl\obj\Debug\RfidControl.pdb

@@ -1,0 +1,7 @@
+C:\01 Code\02 HL\UFRFID\RFIDSolution\RfidLicenseGenerater\bin\Debug\RfidLicenseGenerater.exe
+C:\01 Code\02 HL\UFRFID\RFIDSolution\RfidLicenseGenerater\bin\Debug\RfidLicenseGenerater.pdb
+C:\01 Code\02 HL\UFRFID\RFIDSolution\RfidLicenseGenerater\obj\x86\Debug\RfidLicenseGenerater.Form1.resources
+C:\01 Code\02 HL\UFRFID\RFIDSolution\RfidLicenseGenerater\obj\x86\Debug\RfidLicenseGenerater.Properties.Resources.resources
+C:\01 Code\02 HL\UFRFID\RFIDSolution\RfidLicenseGenerater\obj\x86\Debug\RfidLicenseGenerater.csproj.GenerateResource.Cache
+C:\01 Code\02 HL\UFRFID\RFIDSolution\RfidLicenseGenerater\obj\x86\Debug\RfidLicenseGenerater.exe
+C:\01 Code\02 HL\UFRFID\RFIDSolution\RfidLicenseGenerater\obj\x86\Debug\RfidLicenseGenerater.pdb

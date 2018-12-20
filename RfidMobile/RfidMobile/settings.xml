@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Host>182.61.37.23</Host>
+  <Port>8311</Port>
+  <Device>D3000</Device>
+  <Customer id="TH">
+    <mfg_country>Changshu China</mfg_country>
+    <mfg_name>ZhongLiTalesun</mfg_name>
+    <iec_date>2013-07</iec_date>
+    <iec_verfy>TUV Rheinland</iec_verfy>
+    <iso></iso>
+    <producttype></producttype>
+  </Customer>
+  <Customer id="JY">
+    <mfg_country>XuZhou China</mfg_country>
+    <mfg_name>JiaYuPV</mfg_name>
+    <iec_date>2013-07</iec_date>
+    <iec_verfy>TUV Rheinland</iec_verfy>
+    <iso></iso>
+    <producttype></producttype>
+  </Customer>
+</Root>

@@ -1,0 +1,9 @@
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Api.RFID.Desk\bin\Release\Wcf.Api.RFID.Desk.dll
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Api.RFID.Desk\bin\Release\Wcf.Api.RFID.Desk.pdb
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Api.RFID.Desk\obj\Release\Wcf.Api.RFID.Desk.dll
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Api.RFID.Desk\obj\Release\Wcf.Api.RFID.Desk.pdb
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Api.RFID.Desk\obj\Release\Wcf.Api.RFID.Desk.csprojResolveAssemblyReference.cache
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\WCFServices\Wcf.Api.RFID.Desk\bin\Release\Wcf.Api.RFID.Desk.dll
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\WCFServices\Wcf.Api.RFID.Desk\bin\Release\Wcf.Api.RFID.Desk.pdb
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\WCFServices\Wcf.Api.RFID.Desk\obj\Release\Wcf.Api.RFID.Desk.dll
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\WCFServices\Wcf.Api.RFID.Desk\obj\Release\Wcf.Api.RFID.Desk.pdb

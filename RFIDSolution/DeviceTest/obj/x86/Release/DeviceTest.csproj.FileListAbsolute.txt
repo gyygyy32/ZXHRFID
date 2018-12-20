@@ -1,0 +1,11 @@
+C:\01 Code\02 HL\UFRFID\RFIDSolution\DeviceTest\bin\Release\mwrf32.dll
+C:\01 Code\02 HL\UFRFID\RFIDSolution\DeviceTest\bin\Release\DeviceTest.exe
+C:\01 Code\02 HL\UFRFID\RFIDSolution\DeviceTest\bin\Release\DeviceTest.pdb
+C:\01 Code\02 HL\UFRFID\RFIDSolution\DeviceTest\bin\Release\CustomControl.dll
+C:\01 Code\02 HL\UFRFID\RFIDSolution\DeviceTest\bin\Release\CustomControl.pdb
+C:\01 Code\02 HL\UFRFID\RFIDSolution\DeviceTest\obj\x86\Release\DeviceTest.Form1.resources
+C:\01 Code\02 HL\UFRFID\RFIDSolution\DeviceTest\obj\x86\Release\DeviceTest.Properties.Resources.resources
+C:\01 Code\02 HL\UFRFID\RFIDSolution\DeviceTest\obj\x86\Release\DeviceTest.csproj.GenerateResource.Cache
+C:\01 Code\02 HL\UFRFID\RFIDSolution\DeviceTest\obj\x86\Release\DeviceTest.exe
+C:\01 Code\02 HL\UFRFID\RFIDSolution\DeviceTest\obj\x86\Release\DeviceTest.pdb
+C:\01 Code\02 HL\UFRFID\RFIDSolution\DeviceTest\obj\x86\Release\DeviceTest.csprojResolveAssemblyReference.cache

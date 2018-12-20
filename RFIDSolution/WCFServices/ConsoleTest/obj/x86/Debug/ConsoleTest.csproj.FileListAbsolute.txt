@@ -1,0 +1,8 @@
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\ConsoleTest\bin\Debug\Wcf.Api.RFID.Desk.dll
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\ConsoleTest\bin\Debug\Wcf.Api.RFID.Desk.pdb
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\ConsoleTest\obj\x86\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\ConsoleTest\obj\x86\Debug\ConsoleTest.exe
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\ConsoleTest\obj\x86\Debug\ConsoleTest.pdb

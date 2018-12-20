@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RfidMobile", "RfidMobile\RfidMobile.csproj", "{E4B8956E-15EF-4651-A73C-C32E2E78B7EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RfidControl", "RfidControl\RfidControl.csproj", "{3208B2FA-E5CA-4654-9861-BEC1E6453E82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4B8956E-15EF-4651-A73C-C32E2E78B7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B8956E-15EF-4651-A73C-C32E2E78B7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B8956E-15EF-4651-A73C-C32E2E78B7EC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E4B8956E-15EF-4651-A73C-C32E2E78B7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B8956E-15EF-4651-A73C-C32E2E78B7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B8956E-15EF-4651-A73C-C32E2E78B7EC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3208B2FA-E5CA-4654-9861-BEC1E6453E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3208B2FA-E5CA-4654-9861-BEC1E6453E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3208B2FA-E5CA-4654-9861-BEC1E6453E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3208B2FA-E5CA-4654-9861-BEC1E6453E82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\CustomControl\bin\Release\CustomControl.dll
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\CustomControl\bin\Release\CustomControl.pdb
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\CustomControl\obj\Release\CustomControl.IpAddressTextBox.resources
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\CustomControl\obj\Release\CustomControl.csproj.GenerateResource.Cache
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\CustomControl\obj\Release\CustomControl.dll
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\CustomControl\obj\Release\CustomControl.pdb

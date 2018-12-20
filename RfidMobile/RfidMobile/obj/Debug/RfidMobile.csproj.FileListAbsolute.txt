@@ -1,0 +1,14 @@
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\bin\Debug\settings.xml
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\bin\Debug\RfidMobile.exe
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\bin\Debug\RfidMobile.pdb
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\bin\Debug\RfidControl.dll
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\bin\Debug\RfidControl.pdb
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\obj\Debug\ResolveAssemblyReference.cache
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\obj\Debug\RfidMobile.Config.resources
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\obj\Debug\RfidMobile.Writer.resources
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\obj\Debug\RfidMobile.MainForm.resources
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\obj\Debug\RfidMobile.Properties.Resources.resources
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\obj\Debug\RfidMobile.Reader.resources
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\obj\Debug\RfidMobile.csproj.GenerateResource.Cache
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\obj\Debug\RfidMobile.exe
+C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\obj\Debug\RfidMobile.pdb

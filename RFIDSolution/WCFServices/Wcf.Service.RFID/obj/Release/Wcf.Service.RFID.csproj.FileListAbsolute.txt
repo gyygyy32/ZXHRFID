@@ -1,0 +1,16 @@
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Service.RFID\bin\Release\Wcf.Service.RFID.dll
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Service.RFID\bin\Release\Wcf.Service.RFID.pdb
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Service.RFID\bin\Release\MySql.Data.dll
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Service.RFID\bin\Release\Wcf.ServiceContracts.RFID.dll
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Service.RFID\bin\Release\Wcf.ServiceContracts.RFID.pdb
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Service.RFID\obj\Release\Wcf.Service.RFID.csprojResolveAssemblyReference.cache
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Service.RFID\obj\Release\Wcf.Service.RFID.dll
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Service.RFID\obj\Release\Wcf.Service.RFID.pdb
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\WCFServices\Wcf.Service.RFID\bin\Release\Wcf.Service.RFID.dll
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\WCFServices\Wcf.Service.RFID\bin\Release\Wcf.Service.RFID.pdb
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\WCFServices\Wcf.Service.RFID\bin\Release\MySql.Data.dll
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\WCFServices\Wcf.Service.RFID\bin\Release\Wcf.ServiceContracts.RFID.dll
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\WCFServices\Wcf.Service.RFID\bin\Release\Wcf.ServiceContracts.RFID.pdb
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\WCFServices\Wcf.Service.RFID\obj\Release\Wcf.Service.RFID.csprojResolveAssemblyReference.cache
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\WCFServices\Wcf.Service.RFID\obj\Release\Wcf.Service.RFID.dll
+C:\01 Code\02 HL\UFRFID\ZX\RFIDSolution\WCFServices\Wcf.Service.RFID\obj\Release\Wcf.Service.RFID.pdb

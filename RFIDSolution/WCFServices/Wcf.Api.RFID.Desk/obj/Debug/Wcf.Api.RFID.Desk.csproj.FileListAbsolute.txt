@@ -1,0 +1,4 @@
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Api.RFID.Desk\bin\Debug\Wcf.Api.RFID.Desk.dll
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Api.RFID.Desk\bin\Debug\Wcf.Api.RFID.Desk.pdb
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Api.RFID.Desk\obj\Debug\Wcf.Api.RFID.Desk.dll
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.Api.RFID.Desk\obj\Debug\Wcf.Api.RFID.Desk.pdb

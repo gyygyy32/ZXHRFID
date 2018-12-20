@@ -1,0 +1,10 @@
+C:\01 Code\02 HL\UFRFID\RFIDSolution\ServiceTest\bin\Release\ServiceTest.exe
+C:\01 Code\02 HL\UFRFID\RFIDSolution\ServiceTest\bin\Release\ServiceTest.pdb
+C:\01 Code\02 HL\UFRFID\RFIDSolution\ServiceTest\bin\Release\Wcf.Service.RFID.dll
+C:\01 Code\02 HL\UFRFID\RFIDSolution\ServiceTest\bin\Release\Wcf.ServiceContracts.RFID.dll
+C:\01 Code\02 HL\UFRFID\RFIDSolution\ServiceTest\bin\Release\MySql.Data.dll
+C:\01 Code\02 HL\UFRFID\RFIDSolution\ServiceTest\bin\Release\Wcf.Service.RFID.pdb
+C:\01 Code\02 HL\UFRFID\RFIDSolution\ServiceTest\bin\Release\Wcf.ServiceContracts.RFID.pdb
+C:\01 Code\02 HL\UFRFID\RFIDSolution\ServiceTest\obj\x86\Release\ServiceTest.csprojResolveAssemblyReference.cache
+C:\01 Code\02 HL\UFRFID\RFIDSolution\ServiceTest\obj\x86\Release\ServiceTest.exe
+C:\01 Code\02 HL\UFRFID\RFIDSolution\ServiceTest\obj\x86\Release\ServiceTest.pdb

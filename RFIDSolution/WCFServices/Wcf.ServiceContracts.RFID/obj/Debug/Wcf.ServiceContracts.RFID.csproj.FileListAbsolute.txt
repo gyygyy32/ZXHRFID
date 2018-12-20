@@ -1,0 +1,5 @@
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.ServiceContracts.RFID\bin\Debug\Wcf.ServiceContracts.RFID.dll
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.ServiceContracts.RFID\bin\Debug\Wcf.ServiceContracts.RFID.pdb
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.ServiceContracts.RFID\obj\Debug\Wcf.ServiceContracts.RFID.csprojResolveAssemblyReference.cache
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.ServiceContracts.RFID\obj\Debug\Wcf.ServiceContracts.RFID.dll
+C:\01 Code\02 HL\UFRFID\RFIDSolution\WCFServices\Wcf.ServiceContracts.RFID\obj\Debug\Wcf.ServiceContracts.RFID.pdb
