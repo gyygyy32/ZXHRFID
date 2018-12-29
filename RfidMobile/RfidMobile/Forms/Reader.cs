@@ -184,6 +184,7 @@ namespace RfidMobile
                 switch (ss)
                 {
                     case SystemState.ShowModuleInfo:
+
                         txtManufacturer.Text = "ZNSHINE";// string.IsNullOrEmpty(o.mfg_name) ? "" : o.mfg_name;
                         txtCellSource.Text = "ZNSHINE";//string.IsNullOrEmpty(o.Cellsource) ? "" : o.Cellsource;
                         txtSerialNo.Text = string.IsNullOrEmpty(o.Module_ID) ? "" : o.Module_ID;
