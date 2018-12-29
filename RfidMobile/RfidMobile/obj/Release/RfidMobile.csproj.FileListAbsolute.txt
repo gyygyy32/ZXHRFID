@@ -12,3 +12,17 @@ C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\obj\Release\RfidMobile.Reader.reso
 C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\obj\Release\RfidMobile.csproj.GenerateResource.Cache
 C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\obj\Release\RfidMobile.exe
 C:\01 Code\02 HL\UFRFID\RfidMobile\RfidMobile\obj\Release\RfidMobile.pdb
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidMobile\obj\Release\ResolveAssemblyReference.cache
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidMobile\obj\Release\RfidMobile.Config.resources
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidMobile\obj\Release\RfidMobile.Writer.resources
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidMobile\obj\Release\RfidMobile.MainForm.resources
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidMobile\obj\Release\RfidMobile.Properties.Resources.resources
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidMobile\obj\Release\RfidMobile.Reader.resources
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidMobile\obj\Release\RfidMobile.csproj.GenerateResource.Cache
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidMobile\bin\Release\settings.xml
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidMobile\bin\Release\RfidMobile.exe
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidMobile\bin\Release\RfidMobile.pdb
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidMobile\bin\Release\RfidControl.dll
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidMobile\bin\Release\RfidControl.pdb
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidMobile\obj\Release\RfidMobile.exe
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidMobile\obj\Release\RfidMobile.pdb

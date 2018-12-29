@@ -188,14 +188,19 @@ namespace RfidMobile
                         txtCellSource.Text = "ZNSHINE";//string.IsNullOrEmpty(o.Cellsource) ? "" : o.Cellsource;
                         txtSerialNo.Text = string.IsNullOrEmpty(o.Module_ID) ? "" : o.Module_ID;
                         txtModelNumber.Text = string.IsNullOrEmpty(o.ProductType) ? "" : o.ProductType;
-                        txtDateOfModuleCell.Text = string.IsNullOrEmpty(o.CellDate) ? "" : o.CellDate;
-                        txtCellDate.Text = string.IsNullOrEmpty(o.CellDate) ? "" : o.CellDate;
+                        //modify by xue lei on 2018-12-20 日期显示 yyyy-mm
+                        txtDateOfModuleCell.Text = string.IsNullOrEmpty(o.CellDate) ? "" : Convert.ToDateTime( o.CellDate).ToString("yyyy-MM");
+                        //modify by xue lei on 2018-12-20 日期显示 yyyy-mm
+                        txtCellDate.Text = string.IsNullOrEmpty(o.CellDate) ? "" : Convert.ToDateTime(o.CellDate).ToString("yyyy-MM");
                         txtPIVF.Text = o.Pmax + "Wp," + o.Ipm + "A," + o.Vpm + "V," + o.FF;
                         txtIecCertificateDate.Text = "20181217";//string.IsNullOrEmpty(o.iec_date) ? "" : o.iec_date;
-                        txtIecCertificateOffer.Text = "UL India Pvt.Ltd";//string.IsNullOrEmpty(o.iec_verfy) ? "" : o.iec_verfy;
+                        txtIecCertificateOffer.Text = "BIS";//string.IsNullOrEmpty(o.iec_verfy) ? "" : o.iec_verfy;
                         txtIecCertificateLab.Text = "ISO9001";//string.IsNullOrEmpty(o.iso) ? "" : o.iso;
                         txtMadeIn.Text = "CN";//string.IsNullOrEmpty(o.cell_supplier_country) ? "" : o.cell_supplier_country;
-
+                        //add by xue lei on 2018-12-20 正信要求显示Isc和Voc
+                        string isc = (string.IsNullOrEmpty(o.Isc) ? "" : o.Isc);
+                        string voc = (string.IsNullOrEmpty(o.Voc) ? "" : o.Voc);
+                        txtIscVoc.Text = isc+","+voc;
                         ShowIVCurves(double.Parse(o.Isc), double.Parse(o.Ipm), double.Parse(o.Vpm), double.Parse(o.Voc));
                         break;
                     case SystemState.ResetAll:

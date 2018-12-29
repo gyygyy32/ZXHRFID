@@ -3,3 +3,8 @@ C:\01 Code\02 HL\UFRFID\RfidMobile\RfidControl\bin\Release\RfidControl.pdb
 C:\01 Code\02 HL\UFRFID\RfidMobile\RfidControl\obj\Release\ResolveAssemblyReference.cache
 C:\01 Code\02 HL\UFRFID\RfidMobile\RfidControl\obj\Release\RfidControl.dll
 C:\01 Code\02 HL\UFRFID\RfidMobile\RfidControl\obj\Release\RfidControl.pdb
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidControl\bin\Release\RfidControl.dll
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidControl\bin\Release\RfidControl.pdb
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidControl\obj\Release\ResolveAssemblyReference.cache
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidControl\obj\Release\RfidControl.dll
+C:\01 Code\02 HL\UFRFID\ZX\RfidMobile\RfidControl\obj\Release\RfidControl.pdb
