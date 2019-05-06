@@ -187,7 +187,9 @@ namespace RfidMobile
                         txtManufacturer.Text = "ZNSHINE";// string.IsNullOrEmpty(o.mfg_name) ? "" : o.mfg_name;
                         txtCellSource.Text = "ZNSHINE";//string.IsNullOrEmpty(o.Cellsource) ? "" : o.Cellsource;
                         txtSerialNo.Text = string.IsNullOrEmpty(o.Module_ID) ? "" : o.Module_ID;
-                        txtModelNumber.Text = string.IsNullOrEmpty(o.ProductType) ? "" : o.ProductType;
+                        //txtModelNumber.Text = string.IsNullOrEmpty(o.ProductType) ? "" : o.ProductType;
+                        //客户要求改成假的固定值 modify by xue lei on 2019-5-4
+                        txtModelNumber.Text = "ZXP6-D72-335/P";  //string.IsNullOrEmpty(o.ProductType) ? "" : o.ProductType;
                         //modify by xue lei on 2018-12-20 日期显示 yyyy-mm
                         txtDateOfModuleCell.Text = string.IsNullOrEmpty(o.CellDate) ? "" : Convert.ToDateTime( o.CellDate).ToString("yyyy-MM");
                         //modify by xue lei on 2018-12-20 日期显示 yyyy-mm
